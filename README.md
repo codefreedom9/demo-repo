@@ -4,7 +4,4 @@ Description of the repo!
 
 # Subheader
 
-Watch tutorial on YouTubetest
-asdasda
-das
-asdasdaadasdasd
+Watch tutorial on YouTube
